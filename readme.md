@@ -1,6 +1,6 @@
 # 🚀 Project Name
 
-Short description of your project.
+Short description of your project.<br>
 Example:
 AI-powered Regulatory Submission & Impact Analysis Platform.
 
@@ -30,3 +30,9 @@ This project provides:
 ```bash
 git clone https://github.com/yourusername/project-name.git
 cd project-name
+```
+---
+
+# This is new heading
+
+
