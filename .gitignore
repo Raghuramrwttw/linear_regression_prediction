@@ -1,0 +1,99 @@
+
+---
+
+# 🧹 .gitignore (Universal Python + Web + AI)
+
+```gitignore
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+
+# ==============================
+# Flask
+# ==============================
+instance/
+.webassets-cache
+
+# ==============================
+# FastAPI
+# ==============================
+*.db
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# VSCode
+# ==============================
+.vscode/
+
+# ==============================
+# PyCharm
+# ==============================
+.idea/
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Node (if frontend included)
+# ==============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==============================
+# Docker
+# ==============================
+docker-compose.override.yml
+
+# ==============================
+# Model Files (Optional)
+# ==============================
+*.h5
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# ==============================
+# Temporary Files
+# ==============================
+tmp/
+temp/
