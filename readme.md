@@ -1,8 +1,8 @@
 # 🚀 Project Name
 
-Short description of your project.<br>
-Example:
-AI-powered Regulatory Submission & Impact Analysis Platform.
+description of project.<br>
+
+This project helps to predict the FWI of the algeria dataset basically use to predict the fire or not fire
 
 ---
 
@@ -32,7 +32,4 @@ git clone https://github.com/yourusername/project-name.git
 cd project-name
 ```
 ---
-
-# This is new heading
-
 
